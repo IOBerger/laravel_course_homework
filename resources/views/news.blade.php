@@ -93,7 +93,8 @@
                 <div class="main">
                     Hello! 
                     <div class="news1">
-                        <i>05.06.2023</i> -- site created.
+                    <i>05.06.2023</i> -- site updated.
+                    <i>05.06.2023</i> -- new site created.
                     </div>
                 </div>
             </div>
